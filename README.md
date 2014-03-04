@@ -1,4 +1,4 @@
 WooCommerce-Mollie-iDeal
 ========================
 
-WooCommerce which adds the iDeal checkout option. Only working with a Mollie account.
+WooCommerce plugin that will add an iDeal checkout option to your webshop. Compatible with Mollie.
