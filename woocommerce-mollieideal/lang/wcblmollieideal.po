@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcblmollieideal\n"
+"POT-Creation-Date: 2013-07-09 16:13+0100\n"
+"PO-Revision-Date: 2013-07-09 16:14+0100\n"
+"Last-Translator: Bitlabs <info@bitlabs.nl>\n"
+"Language-Team: Bitlabs <info@bitlabs.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-mollieideal.php:42 woocommerce-mollieideal.php:103
+msgid "iDeal"
+msgstr ""
+
+#: woocommerce-mollieideal.php:43
+msgid "Payment gateway for Mollie iDeal"
+msgstr ""
+
+#: woocommerce-mollieideal.php:94 woocommerce-mollieideal.php:112
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-mollieideal.php:96
+msgid "Enable iDeal payment"
+msgstr ""
+
+#: woocommerce-mollieideal.php:100
+msgid "Title"
+msgstr ""
+
+#: woocommerce-mollieideal.php:102
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-mollieideal.php:107
+msgid "Customer Message"
+msgstr ""
+
+#: woocommerce-mollieideal.php:109
+msgid "Pay your order with iDeal."
+msgstr ""
+
+#: woocommerce-mollieideal.php:114
+msgid "Enable testmode"
+msgstr ""
+
+#: woocommerce-mollieideal.php:116
+msgid ""
+"Add a testbank to your iDeal bank list. Be sure to turn it off when you go "
+"online!"
+msgstr ""
+
+#: woocommerce-mollieideal.php:120
+msgid "Mollie partner ID"
+msgstr ""
+
+#: woocommerce-mollieideal.php:122
+msgid ""
+"Add your Mollie partner ID here. You can find it on your profile page on "
+"http://mollie.nl."
+msgstr ""
+
+#: woocommerce-mollieideal.php:136
+msgid "Choose your bank:"
+msgstr ""
+
+#: woocommerce-mollieideal.php:182 woocommerce-mollieideal.php:199
+#: woocommerce-mollieideal.php:253
+msgid "Payment error:"
+msgstr ""
+
+#: woocommerce-mollieideal.php:263
+msgid ""
+"Thank you for your order, please click the button below to pay with PayPal."
+msgstr ""

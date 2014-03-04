@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcblmollieideal\n"
+"POT-Creation-Date: 2013-07-14 16:45+0100\n"
+"PO-Revision-Date: 2013-07-14 16:47+0100\n"
+"Last-Translator: Bitlabs <info@bitlabs.nl>\n"
+"Language-Team: Bitlabs <info@bitlabs.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-mollieideal.php:41 woocommerce-mollieideal.php:104
+msgid "iDeal"
+msgstr "iDeal"
+
+#: woocommerce-mollieideal.php:42
+msgid "Payment gateway for Mollie iDeal"
+msgstr "Betaal gateway voor Mollie iDeal"
+
+#: woocommerce-mollieideal.php:95 woocommerce-mollieideal.php:113
+msgid "Enable/Disable"
+msgstr "Inschakelen/Uitschakelen"
+
+#: woocommerce-mollieideal.php:97
+msgid "Enable iDeal payment"
+msgstr "Schakel iDeal betalingen in"
+
+#: woocommerce-mollieideal.php:101
+msgid "Title"
+msgstr "Titel"
+
+#: woocommerce-mollieideal.php:103
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dit bepaald de titel die de gebruiker ziet tijdens het betalen."
+
+#: woocommerce-mollieideal.php:108
+msgid "Customer Message"
+msgstr "Klant bericht"
+
+#: woocommerce-mollieideal.php:110
+msgid "Pay your order with iDeal."
+msgstr "Betaal uw bestelling met iDeal."
+
+#: woocommerce-mollieideal.php:115
+msgid "Enable testmode"
+msgstr "Testmodus inschakelen"
+
+#: woocommerce-mollieideal.php:117
+msgid ""
+"Add a testbank to your iDeal bank list. Be sure to turn it off when you go "
+"online!"
+msgstr ""
+"Voegt een test bank to aan de iDeal banken lijst. Let er op dat je deze "
+"uitschakeld als de webshop online gaat!"
+
+#: woocommerce-mollieideal.php:121
+msgid "Mollie partner ID"
+msgstr "Mollie partner ID"
+
+#: woocommerce-mollieideal.php:123
+msgid ""
+"Add your Mollie partner ID here. You can find it on your profile page on "
+"http://mollie.nl."
+msgstr ""
+"Vul hier je Mollie Partner ID in. Je vindt deze in je accountgegevens op "
+"http://mollie.nl."
+
+#: woocommerce-mollieideal.php:127
+msgid "Bank statement prefix"
+msgstr "Bankafschrift voorvoegsel"
+
+#: woocommerce-mollieideal.php:129
+msgid ""
+"Set the prefix that customers will see on their bank statement. (An order ID "
+"will automatically be placed at the end) (Up to 20 characters allowed. More "
+"will be removed.)"
+msgstr ""
+"Hiermee kan een beschrijving worden meegegeven die in het online-bankpakket "
+"getoond wordt. Zorg dus dat hier iets staat dat de lading dekt, zoals je "
+"webshop naam. (Een order ID zal automatisch op het einde worden toegevoegd) "
+"(In totaal 20 tekens toegestaan, meer zullen automatisch worden verwijderd "
+"door de bank)"
+
+#: woocommerce-mollieideal.php:144
+msgid "Choose your bank:"
+msgstr "Kies uw bank:"
+
+#: woocommerce-mollieideal.php:223 woocommerce-mollieideal.php:259
+msgid "Payment error:"
+msgstr "Betaal error:"
